@@ -1,0 +1,10 @@
+gatsby-plugin-styled-components: Is a plugin of components to css. Very useful.
+
+search on the Gatsby website or Install with: npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components
+then config the plugin in gatsby-config.js asset, in plugin [`gatsby-plugin-styled-components`],
+
+ATENTION: Extremely recommendable use the extention for vscode "vscode-styled-components" to improuve your experience with styled-components.
+if not, you will have to debug your code by yourself.
+
+
+gatsby-plugin-image: Is a plugin for images in gatsby that will do all gatsby's magic.
